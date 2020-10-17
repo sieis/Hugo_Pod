@@ -1,0 +1,3 @@
+[submodule "hugo_pod/themes/ga-hugo-theme"]
+	path = hugo_pod/themes/ga-hugo-theme
+	url = git@github.com:giraffeacademy/ga-hugo-theme.git
